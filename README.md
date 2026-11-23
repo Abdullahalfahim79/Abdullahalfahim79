@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:BFDBFE,100:93C5FD&height=200&section=header&text=Abdullah%20Al%20Fahim&fontSize=42&fontColor=1E3A8A&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20Student&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abdullah%20Al%20Fahim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Abdullah Al Fahim Header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Deep+Learning+%7C+Computer+Vision;Software+%26+Web+Developer;IoT+%26+Embedded+Systems+Explorer;Always+Learning%2C+Always+Building!" />
 
